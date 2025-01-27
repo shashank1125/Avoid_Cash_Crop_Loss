@@ -1,0 +1,1 @@
+export type CropType = 'coconut' | 'areca';
