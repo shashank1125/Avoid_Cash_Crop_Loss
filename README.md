@@ -33,7 +33,6 @@
 
 ---
 ## Snapshots
-![Screenshot 2025-01-27 103600](https://github.com/user-attachments/assets/0703597f-e6e2-48c1-ae29-66d799c5570b)
 ![Screenshot 2025-01-27 103608](https://github.com/user-attachments/assets/b1e7d437-02ed-41ab-8528-9539b342f387)
 ![Screenshot 2025-01-27 103621](https://github.com/user-attachments/assets/b1c920fc-9bed-4acc-a840-45bc92c3e287)
 ![Screenshot 2025-01-27 103911](https://github.com/user-attachments/assets/96124c59-8ba9-4f66-a248-5781d3d03391)
